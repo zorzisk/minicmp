@@ -4,7 +4,7 @@ A lightweight, free cookie consent banner and preference centre for Google Tag M
 
 MiniCMP asks visitors for consent, stores their choice in a first-party cookie and pushes it to the dataLayer. You then use that choice in Google Tag Manager, including for Google Consent Mode.
 
-![MiniCMP cookie banner](screenshots/minicmp-banner-desktop.png)
+![MiniCMP cookie banner](minicmp-banner-desktop.png)
 
 ## Features
 
@@ -19,7 +19,7 @@ MiniCMP asks visitors for consent, stores their choice in a first-party cookie a
 
 | Preference centre | Cookie list |
 |---|---|
-| ![Preference centre](screenshots/minicmp-preferences-desktop.png) | ![Cookie list](screenshots/minicmp-cookie-list.png) |
+| ![Preference centre](minicmp-preferences-desktop.png) | ![Cookie list](minicmp-cookie-list.png) |
 
 ## Install
 
